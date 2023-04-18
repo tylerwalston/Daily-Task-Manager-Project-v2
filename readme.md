@@ -1,4 +1,4 @@
-# Vanilla JS ToDo App
+# Daily Task Manager - Vanilla JS App
 
 ## Table of contents
 
